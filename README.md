@@ -6,5 +6,6 @@ At first you need to run the script1 in your default linux, then you need to run
 Note: script2 only work for root user
 
 running command-
-bash script1.sh
-bash script2.sh
+For scirpt 1- bash script1.sh
+and 
+for script 2- bash script2.sh
