@@ -45,6 +45,14 @@ echo ""
 echo ""
 read -p "Enter A New  Host or Terminal 2nd Name- " hname
 sudo hostname $hname
+sudo hostnamectl set-hostname $name
+echo ""
+echo ""
+hostname
+
+cat /etc/hosts
+echo ""
+echo ""
 echo "Host Name Successfully Changed to $hname"
 echo ""
 echo "_____________________________________________"
